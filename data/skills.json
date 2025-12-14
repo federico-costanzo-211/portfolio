@@ -1,0 +1,11 @@
+{
+    "skills": [
+        {"name": "Git", "type": "Tool", "level": "beginner" },
+        {"name": "GitHub", "type": "Tool", "level": "beginner" },
+        {"name": "JavaScript", "type": "Frontend", "level": "beginner" },
+        {"name": "HTML/CSS", "type": "Frontend", "level": "beginner" },
+        {"name": "TypeScript", "type": "Backend", "level": "beginner" },
+        {"name": "Go", "type": "Backend", "level": "beginner" },
+        {"name": "Linux/Bash", "type": "Tool", "level": "beginner" },
+    ]
+}
