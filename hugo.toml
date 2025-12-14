@@ -6,3 +6,8 @@ theme = ['gokarna']
 buildDrafts = false
 buildExpired = false
 enableRobotsTXT = true
+
+[params]
+  customHeadHTML = '''
+    <link rel="stylesheet" href="css/custom.css">
+  '''
