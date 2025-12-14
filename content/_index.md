@@ -4,8 +4,7 @@ date: 2025-12-14T16:50:07+01:00
 draft: false
 ---
 
-<h1>Federico Costanzo - Web Developer</h1>
-<pre>
+```
 {
     "info": {
         "currently-in": "Palermo, Italy",
@@ -18,4 +17,4 @@ draft: false
         ]
     },
 }
-</pre>
+```
